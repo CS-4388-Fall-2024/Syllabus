@@ -2,7 +2,12 @@
 
 CS 4388/CS 5388, Fall 2024  
 Computer Graphics  
-Isayas Berhe Adhanom 
+
+Instructor: Isayas Berhe Adhanom 
+Office hours: By appointment
+
+TA: Bikram De
+Office Hours: TBD
 
 ## Overview
 
@@ -43,7 +48,7 @@ Each assignment will be introduced at the beginning of a two-week module. At the
 
 At the end of the second week, you will submit the **Program**. If you struggled with the quiz, then seek help from TAs as needed, and make sure that you understand the key concepts first. At a minimum, your goal should be to have a full understanding of the concepts and how you will solve the programming portion by the end of the first week. This way, you will be sure to have at least one full week to implement and debug the program.
 
-The quizzes and programming assignments are the only forms of assessment in this course.  There will not be a midterm or final exam.
+Students enrolled in CS 5388 (graduate section) will have additional work to complete for each assessment. This extra work will include tasks designed to meet the higher expectations for graduate students, ensuring a deeper understanding and more advanced application of the course material.
 
 ### Class Participation
 
@@ -52,8 +57,9 @@ Certain classes, especially those involving live programming, will include a **p
 ## Grading
 
 Final course grades will be calculated based upon the following percentages.
-- Programs - 60%
-- Quizzes - 30%
+- Programs - 50%
+- Quizzes - 20%
+- Exam - 20%
 - Participation - 10%
 
 The grading in this course is on an absolute scale. This means that the performance of others in the class will not affect your grade. Letter grades will be assigned using the following scale:
@@ -138,7 +144,7 @@ The web will be one of your best learning tools and sources of documentation for
 
 #### Consequences of Academic Dishonesty
 
-Academic dishonesty in this class will result in a 0 on the assignment or exam in question for the first offense, and an automatic F in the class for the second offense. All cases of academic dishonesty are required to be reported to the University Office for Community Standards.
+Academic dishonesty in this class will result in a 0 on the assignment or exam in question for the first offense, and an automatic F in the class for the second offense. All cases of academic dishonesty are required to be reported to the University Honor Code Council.
 
 Remember, we are here to help you. If you have any questions about whether something counts as academic dishonesty, please ask me or the TAs for clarification!
 
@@ -150,7 +156,7 @@ Texas State University strives to ensure all students have access to resources t
 
 University policy is to provide, on a flexible and individualized basis, reasonable accommodations to students who have documented disability conditions (e.g., physical, learning, psychiatric, vision, hearing, or systemic) that may affect their ability to participate in course activities or to meet course requirements. Students with disabilities are encouraged to contact the [Office of Disability Services](https://www.ods.txst.edu/) to discuss individual needs for accommodations.
 
-If you have already been working with the Office of Disability Services and have a letter from them to help direct your instructors on to set you up for success, then please send that to me at the beginning of the semester. In many cases, you will find that this course is already designed to be accessible for students that would benefit from additional flexibility (e.g., non-timed quizzes instead of large exams, flexible late policy on programming assignments, etc.). However, if additional accommodations are necessary, I will make every reasonable effort to make sure this class is a good experience for you.
+If you have already been working with the Office of Disability Services and have a letter from them to help direct your instructors on to set you up for success, then please send that to me at the beginning of the semester. In many cases, you will find that this course is already designed to be accessible for students that would benefit from additional flexibility (e.g., non-timed quizzes, flexible late policy on programming assignments, etc.). However, if additional accommodations are necessary, I will make every reasonable effort to make sure this class is a good experience for you.
 
 ## Acknowledgments
 
