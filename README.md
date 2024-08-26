@@ -4,9 +4,12 @@ CS 4388/CS 5388, Fall 2024
 Computer Graphics  
 
 Instructor: Isayas Berhe Adhanom 
+
 Office hours: By appointment
 
+
 TA: Bikram De
+
 Office Hours: TBD
 
 ## Overview
